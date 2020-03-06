@@ -12,7 +12,7 @@ Compress all files that you bind in /files
 
 Run it
 ```bash
-docker run -e BYTES=250000 -v ~/folder:/files rar:18-04-5-90
+docker run -e BYTES=250000 -v ~/folder:/files danifernandezs/rar-docker-container:18-04-5-90
 ```
 
 ## Versions
