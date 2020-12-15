@@ -18,7 +18,7 @@ docker run -v ~/folder:/files danifernandezs/rar-docker-container:ubuntu18.04-ra
 - Ubuntu
   - [Docker HUB (20.04)](https://hub.docker.com/_/ubuntu?tab=tags&page=1&ordering=last_updated&name=20.04)
   - [Dockerfile (20.04)](https://github.com/tianon/docker-brew-ubuntu-core/blob/cfb552709a84c4732eedf2ff89ac2e46f62ba4f8/focal/Dockerfile)
-- rar ()
+- rar
   - [RARLAB](https://www.rarlab.com/download.htm)
 
 ## License
